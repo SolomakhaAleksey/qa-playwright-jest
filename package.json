@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/SolomakhaAleksey/qa-playwright-jest#readme",
   "devDependencies": {
-    "@playwright/test": "^1.27.1"
+    "@playwright/test": "^1.27.1",
+    "jest": "^29.3.1"
   }
 }
