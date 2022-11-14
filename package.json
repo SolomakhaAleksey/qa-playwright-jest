@@ -1,0 +1,21 @@
+{
+  "name": "qa-playwright-jest",
+  "version": "1.0.0",
+  "description": "I found some course which helps me to use them in my work. I hope xD.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolomakhaAleksey/qa-playwright-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolomakhaAleksey/qa-playwright-jest/issues"
+  },
+  "homepage": "https://github.com/SolomakhaAleksey/qa-playwright-jest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
